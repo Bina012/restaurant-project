@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "12345",
+      "id": "1560"
+    },
+    {
+      "id": "c655",
+      "name": "Peter",
+      "email": "peter@mailinator.com",
+      "password": "peter@123"
+    },
+    {
+      "id": "fc80",
+      "name": "Name",
+      "email": "Bina",
+      "password": "Doe"
+    },
+    {
+      "id": "ed28",
+      "name": "Eum quaerat eos vel ",
+      "email": "Quia consequuntur se",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "00b8",
+      "name": "Jack",
+      "email": "Jack",
+      "password": "Jack"
+    },
+    {
+      "id": "a498",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "9a0d",
+      "name": "Ut officiis sint con",
+      "email": "Sint dolores tempore",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "024c",
+      "name": "admin",
+      "email": "admin",
+      "password": "admin"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Burger House",
+      "contact": "0158969666",
+      "address": "Thimi"
+    },
+    {
+      "id": "2",
+      "name": "KFC",
+      "contact": "0158969666",
+      "address": "Thimi"
+    },
+    {
+      "name": "Mechelle don",
+      "address": "Amet abc",
+      "contact": "Sapiente ads",
+      "id": "60c9"
+    }
+  ]
+}
